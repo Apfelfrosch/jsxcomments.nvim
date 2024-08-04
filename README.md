@@ -2,7 +2,7 @@
 
 Comment out jsx / tsx lines
 
-This plugin adds one command: `ToggleJsxCommentsVisual`.
+This plugin adds one command: `JsxCommentVisual`.
 
 The idea is to now bind a keybinding like so:
 
